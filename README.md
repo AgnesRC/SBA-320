@@ -18,6 +18,8 @@ AJAX: used to fetch data from the external API for display on the DOM.
 Netlify: used to deploy the application.
 
 Approach Taken:
+
+
 React components (Favorites, RandomRecipe, RecipeCard, etc.) and hooks (useState, useEffect, useLocalStorage) used for modularity and functionality. 
 
 AJAX requests made using fetch to interact with the API.
